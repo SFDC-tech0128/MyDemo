@@ -2,14 +2,14 @@
     [
         "F:\\VS Code\\My workspace\\MyFirstProject\\force-app",
         {
-            "state": "n",
             "sourcePath": "F:\\VS Code\\My workspace\\MyFirstProject\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1544152929825,
             "changeTime": 1544152929825,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main",
         {
-            "state": "n",
             "sourcePath": "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1544152929826,
             "changeTime": 1544152929826,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -37,22 +37,22 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1544166605948,
-            "changeTime": 1544166605948,
-            "contentHash": "4f090b12d069ab492a48d0da355988187018b1a5"
+            "modifiedTime": 1544168175256,
+            "changeTime": 1544168175256,
+            "contentHash": "0d85baeb19b9dddf5579e3be5db8ecda398c1686"
         }
     ],
     [
         "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\aura",
         {
-            "state": "n",
             "sourcePath": "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1544152929827,
             "changeTime": 1544152929827,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -60,14 +60,14 @@
     [
         "F:\\VS Code\\My workspace\\MyFirstProject",
         {
-            "state": "n",
             "sourcePath": "F:\\VS Code\\My workspace\\MyFirstProject",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1544164343597,
             "changeTime": 1544164343597,
             "contentHash": "ac8ebe8fbf8686ccd99613333554bc80e3ff17df",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -75,183 +75,222 @@
     [
         "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\objects\\Student__c\\Student__c.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\objects\\Student__c\\Student__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2053,
             "modifiedTime": 1544166605812,
             "changeTime": 1544166605812,
-            "contentHash": "9bfa95a44bb0d4f4921379a71b0874dc8df6c4f0"
+            "contentHash": "9bfa95a44bb0d4f4921379a71b0874dc8df6c4f0",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\objects\\Student__c\\listViews\\All.listView-meta.xml",
         {
-            "state": "u",
             "sourcePath": "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\objects\\Student__c\\listViews\\All.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 204,
             "modifiedTime": 1544166605866,
             "changeTime": 1544166605866,
-            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\layouts\\Student__c-Student Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\layouts\\Student__c-Student Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2744,
             "modifiedTime": 1544166605896,
             "changeTime": 1544166605896,
-            "contentHash": "f2624576b584df23205f02afec2db5800faf2779"
+            "contentHash": "f2624576b584df23205f02afec2db5800faf2779",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\tabs\\Student__c.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\tabs\\Student__c.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 221,
             "modifiedTime": 1544166605920,
             "changeTime": 1544166605920,
-            "contentHash": "99ad59b0f67ecf7d00cfef6ed7b06faa99ff7657"
+            "contentHash": "99ad59b0f67ecf7d00cfef6ed7b06faa99ff7657",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4539,
             "modifiedTime": 1544166605989,
             "changeTime": 1544166605989,
-            "contentHash": "9b4c7f659078133fbbbe94d9e8c14ab264dcc85f"
+            "contentHash": "9b4c7f659078133fbbbe94d9e8c14ab264dcc85f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4877,
             "modifiedTime": 1544166606064,
             "changeTime": 1544166606064,
-            "contentHash": "b62c415781dfca24657a3dea4610e84c75b25d12"
+            "contentHash": "b62c415781dfca24657a3dea4610e84c75b25d12",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 18408,
             "modifiedTime": 1544166606166,
             "changeTime": 1544166606166,
-            "contentHash": "a12266077e607b49b24ade5074ab776e8265c427"
+            "contentHash": "a12266077e607b49b24ade5074ab776e8265c427",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4539,
             "modifiedTime": 1544166606199,
             "changeTime": 1544166606199,
-            "contentHash": "9b4c7f659078133fbbbe94d9e8c14ab264dcc85f"
+            "contentHash": "9b4c7f659078133fbbbe94d9e8c14ab264dcc85f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\objects\\Student__c",
         {
-            "state": "u",
             "sourcePath": "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\objects\\Student__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1544166605863,
             "changeTime": 1544166605863,
-            "contentHash": "c397156d23f8f086e3222f0da7f48d4386ad12af"
+            "contentHash": "c397156d23f8f086e3222f0da7f48d4386ad12af",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\objects",
         {
-            "state": "u",
             "sourcePath": "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1544166605778,
             "changeTime": 1544166605778,
-            "contentHash": "ef9c735b2ef4dd3260d7d126dfd3e191268d04b2"
+            "contentHash": "ef9c735b2ef4dd3260d7d126dfd3e191268d04b2",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\objects\\Student__c\\listViews",
         {
-            "state": "u",
             "sourcePath": "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\objects\\Student__c\\listViews",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1544166605865,
             "changeTime": 1544166605865,
-            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\layouts",
         {
-            "state": "u",
             "sourcePath": "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1544166605894,
             "changeTime": 1544166605894,
-            "contentHash": "68e7fb60418bb1b4fe2edcec7d1c7c07d687ae85"
+            "contentHash": "68e7fb60418bb1b4fe2edcec7d1c7c07d687ae85",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\tabs",
         {
-            "state": "u",
             "sourcePath": "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1544166605918,
             "changeTime": 1544166605918,
-            "contentHash": "86ddf1266af0d551b9d556a8cfda9f2aa708bd16"
+            "contentHash": "86ddf1266af0d551b9d556a8cfda9f2aa708bd16",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\profiles",
         {
-            "state": "u",
             "sourcePath": "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1544166606193,
             "changeTime": 1544166606193,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\classes\\student.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\classes\\student.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1544168175278,
+            "changeTime": 1544168175278,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\classes\\student.cls",
+        {
+            "state": "u",
+            "sourcePath": "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\classes\\student.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 23,
+            "modifiedTime": 1544168175380,
+            "changeTime": 1544168175380,
+            "contentHash": "7444804eabda8c377e0226433dd01e2e11efd14d"
+        }
+    ],
+    [
+        "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544168175358,
+            "changeTime": 1544168175358,
+            "contentHash": "8dbfd264bedfd027e74df4ba1d39269385894f25"
         }
     ]
 ]
