@@ -20,7 +20,7 @@
             "sourcePath": "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1544288898166,
+            "modifiedTime": 1544152929826,
             "changeTime": 1544152929826,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
             "isMetadataFile": false,
@@ -48,7 +48,7 @@
             "sourcePath": "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1544292363758,
+            "modifiedTime": 1544152929827,
             "changeTime": 1544152929827,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
@@ -270,53 +270,27 @@
     [
         "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\classes\\student.cls",
         {
+            "state": "u",
             "sourcePath": "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\classes\\student.cls",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 75,
             "modifiedTime": 1544295674700,
             "changeTime": 1544295674700,
-            "contentHash": "8fa0eb11df436322c1e2f14ebfd2a2ef3beee084",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "8fa0eb11df436322c1e2f14ebfd2a2ef3beee084"
         }
     ],
     [
         "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\classes",
         {
-            "state": "u",
             "sourcePath": "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1544295901842,
-            "changeTime": 1544295901842,
-            "contentHash": "4a10d3a4ce63bc0174d4226d2d1b5bb8ca3a56da"
-        }
-    ],
-    [
-        "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\classes\\MyStudent.cls",
-        {
-            "state": "u",
-            "sourcePath": "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\classes\\MyStudent.cls",
-            "isDirectory": false,
+            "modifiedTime": 1544295640711,
+            "changeTime": 1544168175358,
+            "contentHash": "8dbfd264bedfd027e74df4ba1d39269385894f25",
             "isMetadataFile": false,
-            "size": 72,
-            "modifiedTime": 1544295901838,
-            "changeTime": 1544295901838,
-            "contentHash": "da22e8b3f7e31bdbc7badad0bb727d2de7010585"
-        }
-    ],
-    [
-        "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\classes\\MyStudent.cls-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "F:\\VS Code\\My workspace\\MyFirstProject\\force-app\\main\\default\\classes\\MyStudent.cls-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 187,
-            "modifiedTime": 1544295901843,
-            "changeTime": 1544295901843,
-            "contentHash": "12a98c9dd8ecdeac20977a992b87d44b50ff0baf"
+            "state": "u"
         }
     ]
 ]
